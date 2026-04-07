@@ -511,9 +511,6 @@ aws cloudtrail lookup-events --lookup-attributes AttributeKey=EventName,Attribut
 dig <domain>
 nslookup <domain>
 
-or use my tool! :)
-[![CloudDetect](https://img.shields.io/badge/CloudDetect-5391FE?style=for-the-badge&logo=awscli&logoColor=white)](https://github.com/XxrzxX/CloudDetect.git)
-
 # Enumerate public S3 buckets (guessing)
 # Buckets follow pattern: <name>.s3.amazonaws.com
 curl -s https://<bucket-name>.s3.amazonaws.com
@@ -524,6 +521,9 @@ curl https://login.microsoftonline.com/getuserrealm.srf?login=user@domain.com&xm
 
 # AWS-specific OSINT tooling
 # GitLeaks, truffleHog - scan repos for exposed AWS keys
+
+or use my tool! :)
+[![CloudDetect](https://img.shields.io/badge/CloudDetect-5391FE?style=for-the-badge&logo=awscli&logoColor=white)](https://github.com/XxrzxX/CloudDetect.git)
 ```
 
 **2. Initial Access - Common Entry Points:**
