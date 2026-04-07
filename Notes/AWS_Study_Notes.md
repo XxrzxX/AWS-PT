@@ -512,6 +512,7 @@ dig <domain>
 nslookup <domain>
 
 or use my tool! :)
+[![CloudDetect](https://img.shields.io/badge/CloudDetect-5391FE?style=for-the-badge&logo=awscli&logoColor=white)](https://github.com/XxrzxX/CloudDetect.git)
 
 # Enumerate public S3 buckets (guessing)
 # Buckets follow pattern: <name>.s3.amazonaws.com
